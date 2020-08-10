@@ -1,6 +1,6 @@
 # RNN_With_LSTM
 
-###A Deep Learning Algorithm
+### A Deep Learning Algorithm
 
 Time-series prediction using LSTM recurrent neural network(RNN) with Keras
 
