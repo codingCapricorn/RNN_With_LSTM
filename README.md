@@ -2,7 +2,7 @@
 
 ### A Deep Learning Algorithm
 
-### Time-series prediction using LSTM recurrent neural network(RNN) with Keras
+#### Time-series prediction using LSTM recurrent neural network(RNN) with Keras
 
 #
 #
