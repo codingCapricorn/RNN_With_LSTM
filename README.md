@@ -13,6 +13,8 @@ Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) ar
 
 #
 
+The
+
 DataSet :: Household Electric Power Consumption
 
 The description of data can be found here: http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
