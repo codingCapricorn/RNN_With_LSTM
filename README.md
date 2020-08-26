@@ -13,7 +13,7 @@ Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) ar
 
 #
 
-The repository consists of following mod
+The repository consists of following modu
 
 DataSet :: Household Electric Power Consumption
 
