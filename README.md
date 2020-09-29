@@ -2,7 +2,6 @@
 
 ### A Deep Learning Algorithm
 #### Time-series prediction using LSTM recurrent neural network(RNN) with Keras
-
 #
 #
 Neural networks are set of algorithms inspired by the functioning of human brain.Recurrent Neural Networks are the first of its kind State of the Art algorithms that can Memorize/remember previous inputs in memory, When a huge set of Sequential data is given to it.
