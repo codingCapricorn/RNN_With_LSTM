@@ -26,4 +26,3 @@ Attribute Characteristics:Real
 Number of Attributes:9
 
 Associated Tasks:Regression, Clustering, Analysis
-
